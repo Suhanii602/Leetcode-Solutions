@@ -23,3 +23,23 @@ I use the LeetHub extension to automatically synchronize accepted LeetCode submi
 ## Goal
 
 To strengthen problem-solving skills and maintain a consistent record of my progress in data structures and algorithms.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+<!---LeetCode Topics End-->
