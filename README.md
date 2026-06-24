@@ -59,6 +59,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -76,9 +77,30 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
