@@ -82,6 +82,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1405-longest-happy-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,10 +119,12 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [1405-longest-happy-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [1405-longest-happy-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
