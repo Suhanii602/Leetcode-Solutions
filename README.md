@@ -66,6 +66,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1094-car-pooling](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1094-car-pooling/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1094-car-pooling](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1405-longest-happy-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -113,6 +115,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1094-car-pooling](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1094-car-pooling/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +148,12 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1094-car-pooling](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1094-car-pooling/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1094-car-pooling](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1094-car-pooling/) | Medium |
 <!---LeetCode Topics End-->
