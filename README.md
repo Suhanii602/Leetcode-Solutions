@@ -60,6 +60,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
@@ -72,6 +73,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
