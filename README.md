@@ -68,6 +68,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0215-kth-largest-element-in-an-array](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0860-lemonade-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1094-car-pooling/) | Medium |
@@ -148,6 +149,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [0860-lemonade-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1405-longest-happy-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
