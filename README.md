@@ -71,6 +71,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0066-plus-one](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0134-gas-station](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -158,6 +159,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0045-jump-game-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0134-gas-station](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
