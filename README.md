@@ -73,6 +73,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0078-subsets](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -167,6 +168,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0055-jump-game](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0135-candy/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
