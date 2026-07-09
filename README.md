@@ -82,6 +82,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0334-increasing-triplet-subsequence](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0403-frog-jump](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0403-frog-jump/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0846-hand-of-straights](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -158,6 +159,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0763-partition-labels](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
@@ -212,11 +214,13 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0901-online-stock-span](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
