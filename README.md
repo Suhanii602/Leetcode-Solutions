@@ -158,6 +158,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -231,5 +232,10 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0763-partition-labels](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
