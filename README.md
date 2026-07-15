@@ -127,6 +127,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -241,5 +242,10 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
