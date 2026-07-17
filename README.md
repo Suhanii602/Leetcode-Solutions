@@ -56,6 +56,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
@@ -95,6 +96,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0077-combinations](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
@@ -173,6 +175,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
