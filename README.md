@@ -131,6 +131,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0012-integer-to-roman](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0066-plus-one](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -165,6 +166,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -177,6 +179,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
