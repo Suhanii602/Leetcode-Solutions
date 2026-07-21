@@ -137,6 +137,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0066-plus-one](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,4 +260,8 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
