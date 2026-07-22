@@ -264,4 +264,8 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
