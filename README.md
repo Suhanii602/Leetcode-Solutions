@@ -57,6 +57,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -186,6 +187,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
@@ -253,6 +255,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0763-partition-labels](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
 ## Linked List
