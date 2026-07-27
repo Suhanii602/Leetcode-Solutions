@@ -281,6 +281,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0175-combine-two-tables](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0177-nth-highest-salary/) | Medium |
+| [0178-rank-scores](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
