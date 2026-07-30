@@ -29,6 +29,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0337-house-robber-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -36,6 +37,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0337-house-robber-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -50,6 +52,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0337-house-robber-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -288,4 +291,8 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0184-department-highest-salary](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0619-biggest-single-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [3482-analyze-organization-hierarchy](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3482-analyze-organization-hierarchy/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
