@@ -169,6 +169,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0846-hand-of-straights](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1094-car-pooling](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1094-car-pooling/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -189,6 +190,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0763-partition-labels](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +205,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0763-partition-labels](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [1405-longest-happy-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,11 +221,13 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0846-hand-of-straights](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1405-longest-happy-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
