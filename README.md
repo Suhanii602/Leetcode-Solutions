@@ -295,6 +295,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0183-customers-who-never-order](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0619-biggest-single-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [3482-analyze-organization-hierarchy](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3482-analyze-organization-hierarchy/) | Hard |
 ## Breadth-First Search
