@@ -68,6 +68,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0097-interleaving-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0198-house-robber](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0337-house-robber-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0403-frog-jump](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0403-frog-jump/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -89,6 +90,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0134-gas-station](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0198-house-robber](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
