@@ -73,6 +73,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0322-coin-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0403-frog-jump](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0403-frog-jump/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 ## Array
@@ -100,6 +101,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0403-frog-jump](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0403-frog-jump/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0846-hand-of-straights](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
@@ -321,8 +323,13 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
