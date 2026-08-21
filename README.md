@@ -48,6 +48,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0403-frog-jump](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0403-frog-jump/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0846-hand-of-straights](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
@@ -168,6 +170,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0215-kth-largest-element-in-an-array](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -189,6 +192,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0160-intersection-of-two-linked-lists](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0763-partition-labels](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
@@ -275,6 +279,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0763-partition-labels](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
 ## Linked List
