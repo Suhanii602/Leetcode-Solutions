@@ -348,4 +348,8 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
