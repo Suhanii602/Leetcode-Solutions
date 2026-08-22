@@ -214,6 +214,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0058-length-of-last-word](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0097-interleaving-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
+| [0125-valid-palindrome](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -283,6 +284,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0125-valid-palindrome](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
