@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: str
         """
         n=len(s)
-        dp=[[False]*n for _ in range(n)]
+        dp=[[False]*n for k in range(n)]
         start=0
         maxlen=1
         for i in range(n):
