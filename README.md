@@ -84,6 +84,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0039-combination-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0057-insert-interval/) | Medium |
@@ -175,6 +176,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -198,6 +200,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -216,6 +219,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0012-integer-to-roman](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0049-group-anagrams](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0097-interleaving-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
