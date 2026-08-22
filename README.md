@@ -110,6 +110,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [1046-last-stone-weight](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1094-car-pooling/) | Medium |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1798-maximum-number-of-consecutive-values-you-can-make/) | Medium |
+| [1946-largest-number-after-mutating-substring](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [3457-eat-pizzas](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3457-eat-pizzas/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -225,6 +226,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0763-partition-labels](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [1405-longest-happy-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
+| [1946-largest-number-after-mutating-substring](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -242,6 +244,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0860-lemonade-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1405-longest-happy-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1798-maximum-number-of-consecutive-values-you-can-make/) | Medium |
+| [1946-largest-number-after-mutating-substring](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3457-eat-pizzas](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3457-eat-pizzas/) | Medium |
 ## Counting
