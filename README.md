@@ -109,6 +109,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0978-longest-turbulent-subarray](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1046-last-stone-weight](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1094-car-pooling/) | Medium |
+| [3457-eat-pizzas](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3457-eat-pizzas/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +182,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1094-car-pooling](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1094-car-pooling/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3457-eat-pizzas](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3457-eat-pizzas/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -238,6 +240,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0860-lemonade-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1405-longest-happy-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3457-eat-pizzas](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3457-eat-pizzas/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
