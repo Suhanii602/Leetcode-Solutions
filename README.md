@@ -72,6 +72,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0403-frog-jump](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0403-frog-jump/) | Hard |
@@ -99,6 +100,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0213-house-robber-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0322-coin-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
