@@ -80,6 +80,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0678-valid-parenthesis-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +168,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0067-add-binary](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Divide and Conquer
@@ -286,6 +288,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
