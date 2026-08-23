@@ -38,6 +38,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0337-house-robber-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -95,6 +96,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0135-candy](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0322-coin-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
@@ -334,6 +336,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -352,4 +355,12 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
