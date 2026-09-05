@@ -222,6 +222,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0763-partition-labels](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
@@ -242,6 +243,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0097-interleaving-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
@@ -311,6 +313,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Two Pointers
