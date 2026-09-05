@@ -50,6 +50,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -106,6 +107,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0139-word-break](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -288,6 +290,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1094-car-pooling](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1094-car-pooling/) | Medium |
 ## Trie
@@ -313,6 +316,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
