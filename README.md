@@ -87,6 +87,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0746-min-cost-climbing-stairs](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [1004-max-consecutive-ones-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1094-car-pooling/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1798-maximum-number-of-consecutive-values-you-can-make/) | Medium |
 | [1946-largest-number-after-mutating-substring](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1946-largest-number-after-mutating-substring/) | Medium |
 | [3457-eat-pizzas](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3457-eat-pizzas/) | Medium |
@@ -320,6 +322,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0424-longest-repeating-character-replacement](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
