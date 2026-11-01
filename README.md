@@ -118,6 +118,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0403-frog-jump](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0733-flood-fill](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -177,6 +178,7 @@ To strengthen problem-solving skills and maintain a consistent record of my prog
 | [0066-plus-one](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Suhanii602/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
